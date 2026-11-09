@@ -1,0 +1,10 @@
+{
+  "platform": "Windows-10-10.0.19045-SP0",
+  "processor": "Intel64 Family 6 Model 158 Stepping 9, GenuineIntel",
+  "logical_cpus": 8,
+  "omp_threads": 4,
+  "python": "3.12.14",
+  "measured_environment": "Windows native; not a Linux VM",
+  "john_sha256": "51836842fdb98ffc6960170b05041ebf7123765b88eabc7dd39ea1bd74f8f4e3",
+  "hashcat_sha256": "1af92a590ecfaf94d772f622cf6e6731bb33a46a7a0029783417a6ffcb3c7083"
+}

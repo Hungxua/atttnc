@@ -1,0 +1,7 @@
+Using default input encoding: UTF-8
+Loaded 1 password hash (bcrypt [Blowfish 32/64 X3])
+Cost 1 (iteration count) is 4096 for all loaded hashes
+Will run 4 OpenMP threads
+/-\|/-\|/-\|/- Press 'q' or Ctrl-C to abort, almost any other key for status
+Wait...0g 0:00:01:00 37.12% (ETA: 20:57:42) 0g/s 28.41p/s 28.41c/s 28.41C/s Dreampeak..Eaglefish
+Session stopped (max run-time reached)

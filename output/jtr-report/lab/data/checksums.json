@@ -1,0 +1,15 @@
+{
+  "data/wordlist.txt": "9cd55fca5e70ec8f8972ae562603157298229496608f29d4f53b7787b9f15b4f",
+  "data/candidates.txt": "44a9aec41200cfb6a486d96d6a926e1986dda431957c11fc3a30ce7cec57fd7d",
+  "data/manifest.csv": "4f1f570f78f6bdb08cabbeb10b6901a0fad41091f35e77048d9a71ac7936c81d",
+  "data/sha256.txt": "2c85383844bcf1387efc6a73521f158a59d4e42129a7d52d4839e6a3838425ee",
+  "data/bcrypt10.txt": "d362780b1adf03181ac7de7c9ccc92501e2d9dd9d1c5b517acda8e0e968d6f63",
+  "data/bcrypt12.txt": "ca590636ef8866a03fb061deedf827e6bd07d1861fd4ae8606604394c1f2edd6",
+  "data/single.txt": "c21ac4b30a3dc60412b95c7fd8a8dd4844d7922a16cc6794c622fff8393a5bf1",
+  "data/control-sha256.txt": "c444c08eeff7b092671848de05d362f1739f76a17a648c2d234f075c756f39f8",
+  "data/control-bcrypt10.txt": "46ac2bcfe3c2b4cecf34c7f3a52768f40b15a912957600f546cd1250bd915d89",
+  "data/control-bcrypt12.txt": "8e217ea9ae87dd837796c19f1a61e4d839e9fb43d882841f7980d24cdf579be3",
+  "ground-truth/passwords.json": "0be54e97c82246bef1bbdbc86414b0ae55bf935bdb39460e7565b5df74bd9053",
+  "ground-truth/hash-map.json": "5a6d0626a393566c6c8265c97a251510d3ff3d90f8a63efb27367f0755695a41",
+  "configs/lab-rules.conf": "4deb333bfef24e7e861c0bf53ae2c56817233fad30a237c9ee04347e475b18a5"
+}

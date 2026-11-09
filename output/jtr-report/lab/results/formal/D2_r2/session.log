@@ -1,0 +1,15 @@
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1 password hash
+0:00:00:00 Cost 1 (iteration count) is 1024 for all loaded hashes
+0:00:00:00 Command line: /run/john --config=C:/Users/PC/Documents/atttnc/output/jtr-report/lab/configs/experiment.conf --format=bcrypt --wordlist=C:/Users/PC/Documents/atttnc/output/jtr-report/lab/data/candidates.txt --max-run-time=60 --session=C:/Users/PC/Documents/atttnc/output/jtr-report/lab/results/formal/D2_r2/session --pot=C:/Users/PC/Documents/atttnc/output/jtr-report/lab/results/formal/D2_r2/result.pot C:/Users/PC/Documents/atttnc/output/jtr-report/lab/data/control-bcrypt10.txt 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 - Hash type: bcrypt (min-len 0, max-len 24 [worst case UTF-8] to 72 [ASCII])
+0:00:00:00 - Algorithm: Blowfish 32/64 X3
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 36
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - Wordlist file: C:/Users/PC/Documents/atttnc/output/jtr-report/lab/data/candidates.txt
+0:00:00:00 - memory mapping wordlist (49240 bytes)
+0:00:00:00 - No word mangling rules
+0:00:00:00 - No stacked rules
+0:00:00:42 Session completed

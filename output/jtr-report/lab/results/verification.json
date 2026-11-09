@@ -1,0 +1,10 @@
+{
+  "frozen_inputs": "PASS",
+  "records": 100,
+  "groups": 5,
+  "unique_bcrypt_salts": 200,
+  "pot_hash_plaintext_pairs": "PASS",
+  "core_3_repeats": "PASS",
+  "formal_run_count": 38,
+  "note": "Backend failures retained, not counted as successful performance measurements."
+}

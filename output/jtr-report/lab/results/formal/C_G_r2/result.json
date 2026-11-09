@@ -1,0 +1,52 @@
+{
+  "run_id": "C_G_r2",
+  "code": "C_G",
+  "phase": "formal",
+  "tool": "hashcat",
+  "format": "raw-sha256",
+  "dataset": "sha256.txt",
+  "budget_s": 60,
+  "wall_time_s": 2.1303,
+  "exit_code": 1,
+  "stop_reason": "completed",
+  "started_utc": "2026-10-29T13:56:53.423974+00:00",
+  "dataset_sha256": "2c85383844bcf1387efc6a73521f158a59d4e42129a7d52d4839e6a3838425ee",
+  "candidates_sha256": "44a9aec41200cfb6a486d96d6a926e1986dda431957c11fc3a30ce7cec57fd7d",
+  "recovered": 40,
+  "groups": {
+    "G1": 20,
+    "G2": 20,
+    "G3": 0,
+    "G4": 0,
+    "G5": 0
+  },
+  "pot_lines": 40,
+  "command": [
+    "C:\\Users\\PC\\Documents\\atttnc\\output\\jtr-report\\lab\\tools\\hashcat-8.0.0\\hashcat.exe",
+    "-m",
+    "1400",
+    "-a",
+    "0",
+    "-D",
+    "2",
+    "--backend-ignore-cuda",
+    "-d",
+    "1",
+    "--runtime",
+    "60",
+    "--potfile-path",
+    "C:\\Users\\PC\\Documents\\atttnc\\output\\jtr-report\\lab\\results\\formal\\C_G_r2\\result.pot",
+    "--session",
+    "C_G_r2",
+    "--restore-disable",
+    "--status",
+    "--status-timer",
+    "10",
+    "C:\\Users\\PC\\Documents\\atttnc\\output\\jtr-report\\lab\\data\\sha256.txt",
+    "C:\\Users\\PC\\Documents\\atttnc\\output\\jtr-report\\lab\\data\\candidates.txt"
+  ],
+  "log_path": "results\\formal\\C_G_r2\\terminal.log",
+  "speed_lines": [
+    "Speed.#01........:  1021.2 kH/s (0.39ms) @ Accel:1024 Loops:1 Thr:64 Vec:1"
+  ]
+}

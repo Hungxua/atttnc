@@ -1,0 +1,38 @@
+{
+  "run_id": "D3_r1",
+  "code": "D3",
+  "phase": "formal",
+  "tool": "john",
+  "format": "bcrypt",
+  "dataset": "control-bcrypt12.txt",
+  "budget_s": 60,
+  "wall_time_s": 61.1891,
+  "exit_code": 1,
+  "stop_reason": "time_limit",
+  "started_utc": "2026-10-29T13:45:25.874615+00:00",
+  "dataset_sha256": "8e217ea9ae87dd837796c19f1a61e4d839e9fb43d882841f7980d24cdf579be3",
+  "candidates_sha256": "44a9aec41200cfb6a486d96d6a926e1986dda431957c11fc3a30ce7cec57fd7d",
+  "recovered": 0,
+  "groups": {
+    "G1": 0,
+    "G2": 0,
+    "G3": 0,
+    "G4": 0,
+    "G5": 0
+  },
+  "pot_lines": 0,
+  "command": [
+    "C:\\Users\\PC\\Documents\\atttnc\\output\\jtr-report\\lab\\tools\\john-1.9.0-jumbo-1-win64\\run\\john.exe",
+    "--config=C:/Users/PC/Documents/atttnc/output/jtr-report/lab/configs/experiment.conf",
+    "--format=bcrypt",
+    "--wordlist=C:/Users/PC/Documents/atttnc/output/jtr-report/lab/data/candidates.txt",
+    "--max-run-time=60",
+    "--session=C:/Users/PC/Documents/atttnc/output/jtr-report/lab/results/formal/D3_r1/session",
+    "--pot=C:/Users/PC/Documents/atttnc/output/jtr-report/lab/results/formal/D3_r1/result.pot",
+    "C:/Users/PC/Documents/atttnc/output/jtr-report/lab/data/control-bcrypt12.txt"
+  ],
+  "log_path": "results\\formal\\D3_r1\\terminal.log",
+  "speed_lines": [
+    "0g 0:00:01:00 39.35% (ETA: 20:47:59) 0g/s 30.19p/s 30.19c/s 30.19C/s Earthseed..Emberleaf"
+  ]
+}

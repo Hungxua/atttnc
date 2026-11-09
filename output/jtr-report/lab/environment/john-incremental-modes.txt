@@ -1,0 +1,15 @@
+digits
+upper
+lower
+lowerspace
+uppernum
+lowernum
+alpha
+alnum
+alnumspace
+lanman
+lm_ascii
+ascii
+latin1
+utf8
+custom

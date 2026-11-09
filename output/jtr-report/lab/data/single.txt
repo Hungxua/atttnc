@@ -1,0 +1,8 @@
+alice:2bd806c97f0e00af1a1fc3328fa763a9269723c8db8fac4f93af71db186d6e90:1000:1000:alice Lab:/home/alice:/bin/bash
+bruno:ccc68482d9e0eee0789e64c7674421076738f8836857ea89bcd0afb832bf3fc3:1001:1001:bruno Lab:/home/bruno:/bin/bash
+carol:4c26d9074c27d89ede59270c0ac14b71e071b15239519f75474b2f3ba63481f5:1002:1002:carol Lab:/home/carol:/bin/bash
+david:07d046d5fac12b3f82daf5035b9aae86db5adc8275ebfbf05ec83005a4a8ba3e:1003:1003:david Lab:/home/david:/bin/bash
+elena:0ce93c9606f0685bf60e051265891d256381f639d05c0aec67c84eec49d33cc1:1004:1004:elena Lab:/home/elena:/bin/bash
+frank:77646f5a4f3166637627abe998e7a1470fe72d8b430f067dafa86263f1f23f94:1005:1005:frank Lab:/home/frank:/bin/bash
+grace:e010fd1ce1acc173e3b4835b7635f8d4600d774869102adb5cb7b5d7895649ba:1006:1006:grace Lab:/home/grace:/bin/bash
+henry:927a3aed189d610b2e151c4208913b3ed0cb38f6be613756819b1513c8924d7f:1007:1007:henry Lab:/home/henry:/bin/bash

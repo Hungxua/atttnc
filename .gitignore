@@ -1,0 +1,6 @@
+﻿/tmp/
+/.chart-data-*/
+/output/jtr-report/lab/tools/
+/output/John-the-Ripper-Bo-bao-cao-va-lab.zip
+__pycache__/
+*.pyc

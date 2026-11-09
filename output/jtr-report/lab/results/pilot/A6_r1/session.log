@@ -1,0 +1,85 @@
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 8 password hashes with no different salts
+0:00:00:00 Command line: /run/john --config=C:/Users/PC/Documents/atttnc/output/jtr-report/lab/configs/experiment.conf --format=raw-sha256 --single --max-run-time=5 --session=C:/Users/PC/Documents/atttnc/output/jtr-report/lab/results/pilot/A6_r1/session --pot=C:/Users/PC/Documents/atttnc/output/jtr-report/lab/results/pilot/A6_r1/result.pot C:/Users/PC/Documents/atttnc/output/jtr-report/lab/data/single.txt 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 - Hash type: Raw-SHA256 (min-len 0, max-len 18 [worst case UTF-8] to 55 [ASCII])
+0:00:00:00 - Algorithm: SHA256 256/256 AVX2 8x
+0:00:00:00 - Will reject candidates longer than 55 bytes
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 65536
+0:00:00:00 Proceeding with "single crack" mode
+0:00:00:00 - SingleWordsPairMax used is 6
+0:00:00:00 - SingleRetestGuessed = true
+0:00:00:00 - SingleMaxBufferSize = 4 GB
+0:00:00:00 - SinglePrioResume = N (prioritize speed over resumability)
+0:00:00:00 - No stacked rules
+0:00:00:00 - 1129 preprocessed word mangling rules
+0:00:00:00 - Allocated 1 buffer of 32 candidate passwords (total 130 KB)
+0:00:00:00 - Rule #1: ':' accepted as ''
+0:00:00:00 + Cracked henry
+0:00:00:00 + Cracked grace
+0:00:00:00 + Cracked frank
+0:00:00:00 + Cracked elena
+0:00:00:00 + Cracked david
+0:00:00:00 + Cracked carol
+0:00:00:00 + Cracked bruno
+0:00:00:00 - Rule #2: '-s x**' rejected
+0:00:00:00 - Rule #3: '-c (?a c Q' accepted as '(?acQ'
+0:00:00:00 - Rule #4: '-c l Q' accepted as 'lQ'
+0:00:00:00 - Rule #5: '-s-c x** /?u l' rejected
+0:00:00:00 - Rule #6: '-<6 >6 '6' accepted as '>6'6'
+0:00:00:00 - Rule #7: '-<7 >7 '7 l' accepted as '>7'7l'
+0:00:00:00 - Rule #8: '-<6 -c >6 '6 /?u l' accepted as '>6'6/?ul'
+0:00:00:00 - Rule #9: '-<5 >5 '5' accepted as '>5'5'
+0:00:00:00 - Rule #10: '/?d @?d >4' accepted as '/?d@?d>4'
+0:00:00:00 - Rule #11: '/?d @?d M @?A >4 Q' accepted as '/?d@?dM@?A>4Q'
+0:00:00:00 - Rule #12: '-c /?d @?d >4 M l Q' accepted as '/?d@?d>4MlQ'
+0:00:00:00 - Rule #13: '-c /?d @?d >4 M c Q' accepted as '/?d@?d>4McQ'
+0:00:00:00 - Rule #14: '-c /?d @?d M @?A >4 Q M l Q' accepted as '/?d@?dM@?A>4QMlQ'
+0:00:00:00 - Rule #15: '-c /?d @?d M @?A >4 Q M c Q' accepted as '/?d@?dM@?A>4QMcQ'
+0:00:00:00 - Rule #16: '@?D Q >4' accepted as '@?DQ>4'
+0:00:00:00 - Rule #17: '/?d @?d >3 <* $0 Q' accepted as '/?d@?d>3<*$0Q'
+0:00:00:00 - Rule #18: '/?d @?d >3 <* $1 Q' accepted as '/?d@?d>3<*$1Q'
+0:00:00:00 - Rule #19: '/?d @?d >3 <* $2 Q' accepted as '/?d@?d>3<*$2Q'
+0:00:00:00 - Rule #20: '/?d @?d >3 <* $3 Q' accepted as '/?d@?d>3<*$3Q'
+0:00:00:00 - Rule #21: '/?d @?d >3 <* $4 Q' accepted as '/?d@?d>3<*$4Q'
+0:00:00:00 - Rule #22: '/?d @?d >3 <* $5 Q' accepted as '/?d@?d>3<*$5Q'
+0:00:00:00 - Rule #23: '/?d @?d >3 <* $6 Q' accepted as '/?d@?d>3<*$6Q'
+0:00:00:00 - Rule #24: '/?d @?d >3 <* $7 Q' accepted as '/?d@?d>3<*$7Q'
+0:00:00:00 - Rule #25: '/?d @?d >3 <* $8 Q' accepted as '/?d@?d>3<*$8Q'
+0:00:00:00 - Rule #26: '/?d @?d >3 <* $9 Q' accepted as '/?d@?d>3<*$9Q'
+0:00:00:00 - Rule #27: '-c /?d @?d >3 <* M l Q $0' accepted as '/?d@?d>3<*MlQ$0'
+0:00:00:00 - Rule #28: '-c /?d @?d >3 <* M l Q $1' accepted as '/?d@?d>3<*MlQ$1'
+0:00:00:00 - Rule #29: '-c /?d @?d >3 <* M l Q $2' accepted as '/?d@?d>3<*MlQ$2'
+0:00:00:00 - Rule #30: '-c /?d @?d >3 <* M l Q $3' accepted as '/?d@?d>3<*MlQ$3'
+0:00:00:00 - Rule #31: '-c /?d @?d >3 <* M l Q $4' accepted as '/?d@?d>3<*MlQ$4'
+0:00:00:00 - Rule #32: '-c /?d @?d >3 <* M l Q $5' accepted as '/?d@?d>3<*MlQ$5'
+0:00:00:00 - Rule #33: '-c /?d @?d >3 <* M l Q $6' accepted as '/?d@?d>3<*MlQ$6'
+0:00:00:00 - Rule #34: '-c /?d @?d >3 <* M l Q $7' accepted as '/?d@?d>3<*MlQ$7'
+0:00:00:00 - Rule #35: '-c /?d @?d >3 <* M l Q $8' accepted as '/?d@?d>3<*MlQ$8'
+0:00:00:00 - Rule #36: '-c /?d @?d >3 <* M l Q $9' accepted as '/?d@?d>3<*MlQ$9'
+0:00:00:00 - Rule #37: '-c /?d @?d >3 <* M c Q $0' accepted as '/?d@?d>3<*McQ$0'
+0:00:00:00 - Rule #38: '-c /?d @?d >3 <* M c Q $1' accepted as '/?d@?d>3<*McQ$1'
+0:00:00:00 - Rule #39: '-c /?d @?d >3 <* M c Q $2' accepted as '/?d@?d>3<*McQ$2'
+0:00:00:00 - Rule #40: '-c /?d @?d >3 <* M c Q $3' accepted as '/?d@?d>3<*McQ$3'
+0:00:00:00 - Rule #41: '-c /?d @?d >3 <* M c Q $4' accepted as '/?d@?d>3<*McQ$4'
+0:00:00:00 - Rule #42: '-c /?d @?d >3 <* M c Q $5' accepted as '/?d@?d>3<*McQ$5'
+0:00:00:00 - Rule #43: '-c /?d @?d >3 <* M c Q $6' accepted as '/?d@?d>3<*McQ$6'
+0:00:00:00 - Rule #44: '-c /?d @?d >3 <* M c Q $7' accepted as '/?d@?d>3<*McQ$7'
+0:00:00:00 - Rule #45: '-c /?d @?d >3 <* M c Q $8' accepted as '/?d@?d>3<*McQ$8'
+0:00:00:00 - Rule #46: '-c /?d @?d >3 <* M c Q $9' accepted as '/?d@?d>3<*McQ$9'
+0:00:00:00 - Rule #47: '/?d @?d >3 <- Az"12" <+ Q' accepted as '/?d@?d>3<-Az"12"<+Q'
+0:00:00:00 - Rule #48: '-c /?d @?d >3 <- M l Q Az"12" <+' accepted as '/?d@?d>3<-MlQAz"12"<+'
+0:00:00:00 - Rule #49: '-c /?d @?d >3 <- M c Q Az"12" <+' accepted as '/?d@?d>3<-McQAz"12"<+'
+0:00:00:00 - Rule #50: '/?d @?d >3 Az"123" <+ Q' accepted as '/?d@?d>3Az"123"<+Q'
+0:00:00:00 - Rule #51: '-c /?d @?d >3 M l Q Az"123" <+' accepted as '/?d@?d>3MlQAz"123"<+'
+0:00:00:00 - Rule #52: '-c /?d @?d >3 M c Q Az"123" <+' accepted as '/?d@?d>3McQAz"123"<+'
+0:00:00:00 - Rule #53: '/?d @?d >2 al d' accepted as '/?d@?d>2ald'
+0:00:00:00 - Rule #54: '-c /?d @?d >2 al M l Q d' accepted as '/?d@?d>2alMlQd'
+0:00:00:00 - Rule #55: '-c /?d @?d >2 al M c Q d' accepted as '/?d@?d>2alMcQd'
+0:00:00:00 - Rule #56: '(?a )?d /?d a0 'p Xpz0' accepted as '(?a)?d/?da0'pXpz0'
+0:00:00:00 - Rule #57: ')?a (?d /?a a0 'p Xpz0' accepted as ')?a(?d/?aa0'pXpz0'
+0:00:00:00 - Rule #58: '<* d' accepted as '<*d'
+0:00:00:00 - Rule #59: 'r c' accepted as 'rc'
+0:00:00:00 + Cracked alice
+0:00:00:00 Session completed

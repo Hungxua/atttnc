@@ -1,0 +1,3 @@
+Testing: bcrypt ("$2a$05", 32 iterations) [Blowfish 32/64 X3]... (4xOMP) PASS
+Will run 4 OpenMP threads
+/-\|/-\|/-\|/-\

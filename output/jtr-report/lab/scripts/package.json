@@ -1,0 +1,5 @@
+{
+  "private": true,
+  "description": "Dependency for generating a NEW synthetic dataset; unnecessary to rerun supplied frozen data",
+  "dependencies": { "bcryptjs": "2.4.3" }
+}

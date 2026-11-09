@@ -1,0 +1,9 @@
+Using default input encoding: UTF-8
+Loaded 100 password hashes with 100 different salts (bcrypt [Blowfish 32/64 X3])
+Cost 1 (iteration count) is 1024 for all loaded hashes
+Will run 4 OpenMP threads
+/-\|/-\|/-\|/- Press 'q' or Ctrl-C to abort, almost any other key for status
+amberbird        (?)
+Wait...1g 0:00:01:01 1.50% (ETA: 21:55:25) 0.01618g/s 0.5827p/s 103.1c/s 103.1C/s amberseed..appleleaf
+Use the "--show" option to display all of the cracked passwords reliably
+Session stopped (max run-time reached)

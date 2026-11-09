@@ -1,0 +1,9 @@
+{
+  "created": "2026-10-29T13:39:35.047Z",
+  "node": "v24.22.1",
+  "bcryptjs": "2.4.3",
+  "wordlist": 1000,
+  "candidates": 4000,
+  "records": 100,
+  "note": "Synthetic controlled data; no real accounts. Original files, not a seed, are the reproducibility authority."
+}

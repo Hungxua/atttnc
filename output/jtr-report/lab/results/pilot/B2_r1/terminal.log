@@ -1,0 +1,7 @@
+Using default input encoding: UTF-8
+Loaded 100 password hashes with 100 different salts (bcrypt [Blowfish 32/64 X3])
+Cost 1 (iteration count) is 1024 for all loaded hashes
+Will run 4 OpenMP threads
+/-\|/-\|/-\|/- Press 'q' or Ctrl-C to abort, almost any other key for status
+Wait...0g 0:00:00:05 0.75% (ETA: 20:51:46) 0g/s 0p/s 129.6c/s 129.6C/s amberbird..ambersand
+Session stopped (max run-time reached)

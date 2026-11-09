@@ -1,0 +1,62 @@
+hashcat (v8.0.0) starting in backend information mode
+
+Failed to initialize the NVIDIA main driver CUDA runtime library.
+
+Failed to initialize NVIDIA RTC library.
+
+* Device #2: CUDA SDK Toolkit not installed or incorrectly installed.
+             CUDA SDK Toolkit required for proper device support and utilization.
+             For more information, see: https://hashcat.net/faq/wrongdriver
+             Falling back to OpenCL runtime.
+
+Bridge units are selected by the hash mode, so none are listed here.
+Add -m <hash mode> to list the units that mode would use.
+
+OpenCL Info:
+============
+
+OpenCL Platform ID #1
+  Vendor..: Intel(R) Corporation
+  Name....: Intel(R) OpenCL HD Graphics
+  Version.: OpenCL 3.0 
+
+  Backend Device ID #01
+    Type...........: GPU
+    Vendor.ID......: 8
+    Vendor.........: Intel(R) Corporation
+    Name...........: Intel(R) HD Graphics 630
+    Version........: OpenCL 3.0 NEO 
+    Processor(s)...: 8
+    Preferred.Thrd.: 7
+    Clock..........: 1100
+    Memory.Total...: 6510 MB (limited to 1627 MB allocatable in one block)
+    Memory.Free....: 6446 MB
+    Memory.Unified.: 1
+    Local.Memory...: 64 KB
+    OpenCL.Version.: OpenCL C 1.2 
+    Driver.Version.: 31.0.101.2140
+
+OpenCL Platform ID #2
+  Vendor..: NVIDIA Corporation
+  Name....: NVIDIA CUDA
+  Version.: OpenCL 1.2 CUDA 9.1.84
+
+  Backend Device ID #02
+    Type...........: GPU
+    Vendor.ID......: 32
+    Vendor.........: NVIDIA Corporation
+    Name...........: GeForce GTX 1050
+    Version........: OpenCL 1.2 CUDA
+    Processor(s)...: 5
+    Preferred.Thrd.: 32
+    Clock..........: 1493
+    Memory.Total...: 4096 MB (limited to 1024 MB allocatable in one block)
+    Memory.Free....: 3328 MB
+    Memory.Unified.: 0
+    Local.Memory...: 48 KB
+    OpenCL.Version.: OpenCL C 1.2 
+    Driver.Version.: 391.25
+    PCI.Addr.BDF...: 01:00.0
+
+cuCtxResetPersistingL2Cache is missing from CUDA shared library.
+

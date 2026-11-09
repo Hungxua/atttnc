@@ -1,0 +1,28 @@
+Using default input encoding: UTF-8
+Loaded 100 password hashes with no different salts (Raw-SHA256 [SHA256 256/256 AVX2 8x])
+Warning: poor OpenMP scalability for this hash type, consider --fork=4
+Will run 4 OpenMP threads
+/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\ Press 'q' or Ctrl-C to abort, almost any other key for status
+tw2094           (?)
+tm0737           (?)
+hb0122           (?)
+jg1565           (?)
+lk4148           (?)
+ma1197           (?)
+kg5298           (?)
+wk1550           (?)
+do2711           (?)
+ap7516           (?)
+rt5427           (?)
+fk9861           (?)
+ru0979           (?)
+vr7957           (?)
+fy8566           (?)
+ea4896           (?)
+zg5072           (?)
+vx3950           (?)
+qq3344           (?)
+qt3310           (?)
+Wait...20g 0:00:01:00 81.18% (ETA: 20:47:41) 0.3322g/s 30198Kp/s 30198Kc/s 2572MC/s h1d7z3..h24wf8
+Use the "--show --format=Raw-SHA256" options to display all of the cracked passwords reliably
+Session stopped (max run-time reached)

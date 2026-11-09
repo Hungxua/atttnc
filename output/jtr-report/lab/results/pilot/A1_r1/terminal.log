@@ -1,0 +1,28 @@
+Using default input encoding: UTF-8
+Loaded 100 password hashes with no different salts (Raw-SHA256 [SHA256 256/256 AVX2 8x])
+Warning: poor OpenMP scalability for this hash type, consider --fork=4
+Will run 4 OpenMP threads
+/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\ Press 'q' or Ctrl-C to abort, almost any other key for status
+amberbird        (?)
+ambervale        (?)
+appleseed        (?)
+autumnpine       (?)
+bamboolight      (?)
+beachfox         (?)
+bluedove         (?)
+brightbloom      (?)
+brightview       (?)
+cedarsky         (?)
+cherrypond       (?)
+cloudlion        (?)
+coralgate        (?)
+crystaldream     (?)
+dawnbrook        (?)
+dawnwalk         (?)
+deltasong        (?)
+dreamrain        (?)
+eaglemoon        (?)
+earthgrove       (?)
+20g 0:00:00:00 DONE (2026-10-29 20:40) 2857g/s 142857p/s 142857c/s 14285KC/s amberbird..fieldwood
+Use the "--show --format=Raw-SHA256" options to display all of the cracked passwords reliably
+Session completed

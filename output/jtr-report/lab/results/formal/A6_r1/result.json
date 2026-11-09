@@ -1,0 +1,38 @@
+{
+  "run_id": "A6_r1",
+  "code": "A6",
+  "phase": "formal",
+  "tool": "john",
+  "format": "raw-sha256",
+  "dataset": "single.txt",
+  "budget_s": 30,
+  "wall_time_s": 0.4181,
+  "exit_code": 0,
+  "stop_reason": "completed",
+  "started_utc": "2026-10-29T13:56:02.391288+00:00",
+  "dataset_sha256": "c21ac4b30a3dc60412b95c7fd8a8dd4844d7922a16cc6794c622fff8393a5bf1",
+  "candidates_sha256": "44a9aec41200cfb6a486d96d6a926e1986dda431957c11fc3a30ce7cec57fd7d",
+  "recovered": 8,
+  "groups": {
+    "G1": 0,
+    "G2": 0,
+    "G3": 0,
+    "G4": 0,
+    "G5": 0
+  },
+  "pot_lines": 8,
+  "command": [
+    "C:\\Users\\PC\\Documents\\atttnc\\output\\jtr-report\\lab\\tools\\john-1.9.0-jumbo-1-win64\\run\\john.exe",
+    "--config=C:/Users/PC/Documents/atttnc/output/jtr-report/lab/configs/experiment.conf",
+    "--format=raw-sha256",
+    "--single",
+    "--max-run-time=30",
+    "--session=C:/Users/PC/Documents/atttnc/output/jtr-report/lab/results/formal/A6_r1/session",
+    "--pot=C:/Users/PC/Documents/atttnc/output/jtr-report/lab/results/formal/A6_r1/result.pot",
+    "C:/Users/PC/Documents/atttnc/output/jtr-report/lab/data/single.txt"
+  ],
+  "log_path": "results\\formal\\A6_r1\\terminal.log",
+  "speed_lines": [
+    "8g 0:00:00:00 DONE (2026-10-29 20:56) 727.2g/s 5818p/s 5818c/s 26181C/s alice..Ecilabal"
+  ]
+}

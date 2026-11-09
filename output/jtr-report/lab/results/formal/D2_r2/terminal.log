@@ -1,0 +1,8 @@
+Using default input encoding: UTF-8
+Loaded 1 password hash (bcrypt [Blowfish 32/64 X3])
+Cost 1 (iteration count) is 1024 for all loaded hashes
+Will run 4 OpenMP threads
+/-\|/-\|/-\|/- Press 'q' or Ctrl-C to abort, almost any other key for status
+Warning: Only 4 candidates left, minimum 12 needed for performance.
+0g 0:00:00:42 DONE (2026-10-29 20:50) 0g/s 93.85p/s 93.85c/s 93.85C/s fieldwave123..fieldwood123
+Session completed
